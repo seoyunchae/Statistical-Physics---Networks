@@ -1,5 +1,3 @@
-# Networks
-
 ## There are two code for generating...
 <ul>
   <li> Random newtork </li>
