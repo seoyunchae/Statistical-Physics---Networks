@@ -11,15 +11,15 @@
 >Yet, most real networks new nodes prefer to link to the more connected nodes, a process called preferential attachment.  
 >
 >The Barabási-Albert Model, also known as BA model or *scale-free network*, is defined as below.  
->We start with m<sub>0</sub> nodes, the links between which are chosen arbitrarily, as long as each node has at least one link.
-> <b>Growth</b>  
->At each time step we add a new node with *m* links (less than m<sub>0</sub>) that connect the new node to *m* nodes already in the network.
->
+>We start with m<sub>0</sub> nodes, the links between which are chosen arbitrarily, as long as each node has at least one link.  
+>> <b>Growth</b>  
+>>At each time step we add a new node with *m* links (less than m<sub>0</sub>) that connect the new node to *m* nodes already in the network.
+>>
 
-> <b>Preferential attachment</b>  
->The probability that a link of the new node connects to node *i* depends on the degree *k<sub>i</sub>* as below  
-><img src="https://latex.codecogs.com/png.image?\dpi{130}&space;\bg_white&space;\prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" title="\bg_black prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" />
->
+>> <b>Preferential attachment</b>  
+>>The probability that a link of the new node connects to node *i* depends on the degree *k<sub>i</sub>* as below  
+>><img src="https://latex.codecogs.com/png.image?\dpi{130}&space;\bg_white&space;\prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" title="\bg_black prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" />
+>>
 
 >Then, how degree distribution of the scale-free network looks like?
 >Let us approximate the degree *k<sub>i</sub>* with a continuous real variable, representing its expectation value over many realizations of the growth process.  
