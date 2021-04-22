@@ -21,7 +21,7 @@
 >><img src="https://latex.codecogs.com/png.image?\dpi{130}&space;\bg_white&space;\prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" title="\bg_black prod(k_i)=\frac{k_i}{\sum_{j}^{}k_j}" />
 >>
 
->Degree Dynamics
+>Then, how degree distribution of the scale-free network looks like?
 >>Let us approximate the degree *k<sub>i</sub>* with a continuous real variable, representing its expectation value over many realizations of the growth process.  
 >><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;\frac{dk_i}{dt}=m\prod_{}^{}(k_i)=m\frac{k_i}{\sum_{j=1}^{N-1}k_j}" title="\bg_black \frac{dk_i}{dt}=m\prod_{}^{}(k_i)=m\frac{k_i}{\sum_{j=1}^{N-1}k_j}" />  
 >><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;\sum_{j=1}^{N-1}k_j=2mt-m" title="\bg_white \sum_{j=1}^{N-1}k_j=2mt-m" />  
@@ -34,4 +34,6 @@
 >><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(k)=\frac{\partial&space;P(k_i(t)<k)}{\partial&space;k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta&plus;1}}=2m^{2}k^{-3}" title="\bg_white P(k)=\frac{\partial P(k_i(t)<k)}{\partial k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta+1}}=2m^{2}k^{-3}" />  
 
 
->>Now you can see the degree distribution has *power-law* tail!
+>Now you can see the degree distribution has *power-law* tail!
+
+[Network Science by Albert-László Barabási] (http://networksciencebook.com/chapter/5#growth)  
