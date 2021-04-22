@@ -12,4 +12,4 @@
 >>[Network Science by Albert-László Barabási] (http://networksciencebook.com/chapter/5#growth)
 >
 The Barabási-Albert Model, also known as BA model or *scale-free network*, is defined as below.  
->We start with  $$$m<sub>0$$$
+We start with  $$$m<sub>0$$$
