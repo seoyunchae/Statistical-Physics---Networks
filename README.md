@@ -30,7 +30,8 @@
 ><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(k_i)=\frac{\partial&space;(k_i(t)<k)}{\partial&space;k" title="\bg_white P(k_i)=\frac{\partial k_i(t)<k}{\partial k" />  
 ><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(k_i(t)<k)=P(m(\frac{t}{t_i})^{\frac{1}{2}})<k" title="\bg_white P(k_i(t)<k)=P(m(\frac{t}{t_i})^{\frac{1}{2}})<k" />  
 ><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(t_i>t(\frac{m}{k})^{1/\beta})=1-P(t_i\leq&space;t(\frac{m}{k})^{1/\beta})=1-(\frac{m}{k})^{1/\beta}" title="\bg_white P(t_i>t(\frac{m}{k})^{1/\beta})=1-P(t_i\leq t(\frac{m}{k})^{1/\beta})=1-(\frac{m}{k})^{1/\beta}" />  
-><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(k)=\frac{\partial&space;P(k_i(t)<k)}{\partial&space;k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta&plus;1}}=2m^{2}k^{-3}" title="\bg_white P(k)=\frac{\partial P(k_i(t)<k)}{\partial k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta+1}}=2m^{2}k^{-3}" />  
+><img src="https://latex.codecogs.com/png.image?\dpi{120}&space;\bg_white&space;P(k)=\frac{\partial&space;P(k_i(t)<k)}{\partial&space;k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta&plus;1}}=2m^{2}k^{-3}" title="\bg_white P(k)=\frac{\partial P(k_i(t)<k)}{\partial k}=\frac{1}{\beta}\frac{m^{1/\beta}}{k^{1/\beta+1}}=2m^{2}k^{-3}" />
 >
+
 >Now you can see the degree distribution has *power-law* tail!
 >>[Network Science by Albert-László Barabási] (http://networksciencebook.com/chapter/5#growth)  
